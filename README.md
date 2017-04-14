@@ -1,4 +1,4 @@
-## Simon-Game
+## Tic-Tac-Toe
 #### Check it out [here](https://c0d0er.github.io/Tic-Tac-Toe/)
 
 #### Fulfill the below user stories:
